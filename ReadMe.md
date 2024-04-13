@@ -149,4 +149,5 @@ Remember to check the documentation and keybindings specific to your code editor
 | macOS            | Option (⌥) or Alt+]      | Option (⌥) or Alt+[          | Command+→                 | N/A                      | N/A                   |
 | Windows          | Alt+]                    | Alt+[                        | Control+→                 | N/A                      | Ctrl+Enter            |
 | Linux            | Alt+]                    | Alt+[                        | Control+→                 | N/A                      | Ctrl+Enter            |
-"# copilot-getting-started" 
+
+Everything is generated using copilot.
